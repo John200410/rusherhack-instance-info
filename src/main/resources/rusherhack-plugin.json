@@ -1,3 +1,15 @@
 {
-  "Plugin-Class": "me.john200410.instanceinfo.Plugin"
+  "Plugin-Class": "me.john200410.instanceinfo.Plugin",
+  "Name": "InstanceInfo",
+  "Version": "${plugin_version}",
+  "Description": "Adds additional information to the game window's title",
+  "Authors": [
+    "John200410"
+  ],
+  "Minecraft-Versions": [
+    "1.20.1",
+    "1.20.2",
+    "1.20.3",
+    "1.20.4"
+  ]
 }
