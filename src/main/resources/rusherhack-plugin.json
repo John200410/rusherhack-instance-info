@@ -3,6 +3,7 @@
   "Name": "InstanceInfo",
   "Version": "${plugin_version}",
   "Description": "Adds additional information to the game window's title",
+  "URL": "https://github.com/John200410/rusherhack-instance-info",
   "Authors": [
     "John200410"
   ],
@@ -14,6 +15,9 @@
     "1.20.5",
     "1.20.6",
     "1.21",
-    "1.21.1"
+    "1.21.1",
+    "1.21.2",
+    "1.21.3",
+    "1.21.4"
   ]
 }
